@@ -24,7 +24,7 @@
 
 ## Introduction
 
-Just a calculator that parsers and evaluations expressions. Made this because i never ever made
+Just a calculator that parsers and evaluates expressions. Made this because i never ever made
 a parser before, so i had to learn how it works.
 
 ## Quickstart
